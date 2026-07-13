@@ -1,0 +1,4 @@
+.typst-forge
+build
+__pycache__
+*.pdf
