@@ -3,6 +3,10 @@ name = "dach-resume"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
 
+[template]
+path = "template"
+entrypoint = "main.typ"
+
 [tool.typst_forge]
 kind = "template"
 namespace = "local"
